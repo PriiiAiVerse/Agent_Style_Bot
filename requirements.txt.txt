@@ -1,0 +1,7 @@
+transformers
+langchain 
+duckduckgo-search 
+wikipedia 
+pydantic 
+accelerate 
+bitsandbytes
